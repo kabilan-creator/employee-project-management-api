@@ -27,28 +27,6 @@ A backend REST API built using Python and FastAPI for managing users and project
 - View Assigned Projects
 - Database Integration
 
-## 📂 Project Structure
-
-employee-project-management-api/
-│
-├── main.py
-└── README.md
-
-## ▶️ How to Run Locally
-
-1. Clone the repository
-2. Create virtual environment (optional but recommended)
-3. Install dependencies:
-
-pip install fastapi uvicorn
-
-4. Run the server:
-
-uvicorn main:app --reload
-
-5. Open browser:
-
-http://127.0.0.1:8000/docs
 
 ## 📖 What I Learned
 
